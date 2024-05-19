@@ -4,7 +4,7 @@ import (
 	"sync"
 
 	MQTT "github.com/eclipse/paho.mqtt.golang"
-	"github.com/tx7do/kratos-transport/broker"
+	"github.com/sleep-go/kratos-transport/broker"
 )
 
 type subscriber struct {
