@@ -1,4 +1,4 @@
-module github.com/tx7do/kratos-transport
+module github.com/sleep-go/kratos-transport
 
 go 1.21
 
